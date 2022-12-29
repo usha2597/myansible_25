@@ -1,0 +1,24 @@
+---
+- mystudents:
+  - name: Eswar
+    phno: 1234567
+    address: 
+        D.no: 4-9
+        streetno: 10
+        Pincode: 2000905
+
+
+
+  - name: Bhavi
+    phno: 5678989
+    address: 
+        D.no: 39
+        streetno: 10
+        Pincode: 456789
+
+  - name: Rakesh
+    phno: 2345678
+    address: 
+        D.no: 42
+        streetno: 10
+        Pincode: 345678
